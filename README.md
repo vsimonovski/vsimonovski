@@ -1,5 +1,5 @@
 <h4 align="center">
-    <samp>Hey there 👋 welcome to my Github!I'm a front-end engineer from Belgrade, Serbia 🇷🇸. All things JavaScript. Passionate about knowledge sharing, code quality, best practices, performance and everything web related.</samp>
+    <samp>Hey there 👋 welcome to my Github! I'm a front-end engineer from Belgrade, Serbia 🇷🇸. All things JavaScript. Passionate about knowledge sharing, code quality, best practices, performance and everything web related.</samp>
 </h4>
 
 <p align="center" style="margin-top: 20px">
