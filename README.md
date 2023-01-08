@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="margin-top: 20px">
-  <img width="150" src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif">
+  <a href="https://vsimonovski.me" target="_blank"><img width="150" src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif"></a>
 </p>
 
 <p align="center"><samp>Check out my repos ⬇️</samp></p>
